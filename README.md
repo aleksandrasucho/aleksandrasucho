@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row;">
   <img class="img" height="150" src="https://github-readme-stats.vercel.app/api?username=aleksandrasucho&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
-  <img class="img" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandrasucho&theme=radical&hide_border=true" />
   <img class="img" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrasucho&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
