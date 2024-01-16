@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 
-# 💫I'm a Full-Stack Software Developer Student
+# 💫I'm a Full-Stack Software Development Student
 🔭 I’m currently working on building my portfolio, where I showcase my projects and demonstrate my growth as a Junior Software Developer.<br>👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.<br>🤝 I’m looking for help with staying updated on the latest industry trends and best practices. Seeking mentorship and guidance to accelerate my learning journey.<br>💬 Ask me about anything! Feel free to discuss any programming-related topics. I'm always up for a good tech conversation!<be>
 
 
